@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+}
+
+table {
+    width: 35%;
+    border-collapse: collapse;
+}
+
+td {
+    width: 33.3%;
+    border: 5px solid #fff;
+}
+  
+td:after {
+    content: "";
+    display: block;
+    margin-top: 100%;
+}
+
+td:first-of-type {
+    border-left-color: transparent;
+    border-top-color: transparent;
+}
+  
+td:nth-of-type(2) {
+    border-top-color: transparent;
+}
+  
+td:nth-of-type(3) {
+    border-right-color: transparent;
+    border-top-color: transparent;
+}
+  
+tr:nth-of-type(3) td {
+    border-bottom-color: transparent;
+}
