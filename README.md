@@ -1,11 +1,10 @@
 <p align="center">
-  <a href="#wave-welcome--introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#wave-welcome--introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wave-welcome--introductions">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pushpin-objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera_flash-screenshots-of-the-game">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">License</a>
+  <a href="#memo-disclaimer">Disclaimer</a>
 </p>
 
 ## Tic-Tac-Toe
@@ -70,5 +69,5 @@ _P.S:_ _**This is a non-exhaustive list. More features might be added to this li
 ![Page preview of Computer's victory](images/screenshots/Computer-O_Wins.png)
 <hr />
 
-## :memo: License
-This project is licensed under the terms of the MIT license. For more information, please refer to the license [documentation](LICENSE.md).
+## :memo: Disclaimer
+The contents of these pages are provided as an information guide only. While every effort is made in preparing material for publication no responsibility is accepted by or on behalf of the owner. for any errors, omissions or misleading statements on these pages or any site to which these pages connect. Although every effort is made to ensure the reliability of listed sites this cannot be taken as an endorsement of these sites.
