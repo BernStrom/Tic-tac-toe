@@ -2,6 +2,7 @@
   <a href="#wave-welcome--introductions">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pushpin-objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#file_folder-upcoming-features">Upcoming Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#camera_flash-screenshots-of-the-game">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-disclaimer">Disclaimer</a>
@@ -43,7 +44,7 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 
 * Functionality features through manipulation of the DOM, using Javascript and Event Handlers
 
-## Upcoming features of the game
+## :file_folder: Upcoming features
 
 * Keep track of multiple game rounds with a win and tie counter
 
