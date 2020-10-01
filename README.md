@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wave-welcome--introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pushpin-objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#camera_flash-screenshots-of-responsive-design">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#camera_flash-screenshots-of-the-game">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -11,7 +11,7 @@
 
 ![Design preview of Tic-tac-toe game](images/screenshots/Tic-tac-toe_game_board.png)
 
-## 👋 Welcome & Introductions!
+## :wave: Welcome & Introductions!
 
 Welcome to my page and thanks for checking out my project.
 
@@ -57,16 +57,16 @@ _P.S:_ _**This is a non-exhaustive list. More features might be added to this li
 
 ## :bookmark: Attribution
 
-[Icons made by Freepik on Flaticon](https://www.flaticon.com/authors/freepik"/ "Flaticon.com")
+[Icons made by Freepik on Flaticon](https://www.flaticon.com/authors/freepik/ "Flaticon.com")
 
 ## :camera_flash: Screenshots of the game
 
 #### Player X victory
-![Page preview of Player's victory](/screenshots/Player-X_wins.png)
+![Page preview of Player's victory](images/screenshots/Player-X_wins.png)
 <hr />
 
 #### Computer O victory
-![Page preview of Computer's victory](./screenshots/Computer-Y_wins.png)
+![Page preview of Computer's victory](images/screenshots/Computer-Y_wins.png)
 <hr />
 
 ## :memo: License
