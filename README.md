@@ -18,7 +18,7 @@ Welcome to my page and thanks for checking out my project.
 
 Tic-tac-toe is a web app game project that is built on HTML5, CSS3, ES6+ JavaScript. Most features of this game app utilizes the DOM manipulation to respond and renders user interaction.
 
-Have fun & feedback on this project are always welcome!
+Have fun & feedbacks on this project are always welcome!
 
 ## :pushpin: Objectives of the project
 
@@ -32,7 +32,7 @@ Have fun & feedback on this project are always welcome!
 
 * Render the game in the browser
 
-And lastly, deploy the game online where the rest of the world can access it  _**Happy coding!🚀**_
+And lastly, deploy the game online where the rest of the world can access it!  _**Happy coding!🚀**_
 
 _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it is only available through hovering over with a cursor, such as a mouse device.**_
 
@@ -71,4 +71,4 @@ _P.S:_ _**This is a non-exhaustive list. More features might be added to this li
 <hr />
 
 ## :memo: Disclaimer
-The contents of these pages are provided as an information guide only. While every effort is made in preparing material for publication no responsibility is accepted by or on behalf of the owner. for any errors, omissions or misleading statements on these pages or any site to which these pages connect. Although every effort is made to ensure the reliability of listed sites this cannot be taken as an endorsement of these sites.
+The contents of these pages are provided as an information guide only. While every effort is made in preparing the material for publication, no responsibility is accepted by or on behalf of the owner for any errors, omissions or misleading statements on these pages or any site to which these pages connect. Although every effort is made to ensure the reliability of listed sites this cannot be taken as an endorsement of these sites.
