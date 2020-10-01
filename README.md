@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#👋 -welcome-&-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#wave-welcome-&-introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#pushpin-objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -11,7 +11,7 @@
 
 ![Design preview of Tic-tac-toe game](images/screenshots/Tic-tac-toe_game_board.png)
 
-## 👋 Welcome & Introductions!
+## :wave: Welcome & Introductions!
 
 Welcome to my page and thanks for checking out my project.
 
