@@ -1,9 +1,6 @@
 <p align="center">
-<<<<<<< HEAD
   <a href="#wave-welcome--introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-=======
   <a href="#wave-welcome--introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
->>>>>>> 90a656a26f64809bbd78120288ad68229bfc766e
   <a href="#pushpin-objectives-of-the-project">Objectives</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gear-technical-components">Technical Components</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#bookmark-attribution">Attribution</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -66,11 +63,11 @@ _P.S:_ _**This is a non-exhaustive list. More features might be added to this li
 ## :camera_flash: Screenshots of the game
 
 #### Player X victory
-![Page preview of Player's victory](images/screenshots/Player-X_wins.png)
+![Page preview of Player's victory](images/screenshots/Player-X_Wins.png)
 <hr />
 
 #### Computer O victory
-![Page preview of Computer's victory](images/screenshots/Computer-Y_wins.png)
+![Page preview of Computer's victory](images/screenshots/Computer-O_Wins.png)
 <hr />
 
 ## :memo: License
