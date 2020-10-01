@@ -46,9 +46,11 @@ _P.S:_ _**Hover state features is not applicable on touchscreen devices, as it i
 
 ## :file_folder: Upcoming features
 
+* Render the user tokens with visual effects on click, such as drawing the Xs & Os, instead of statically appearing.
+
 * Keep track of multiple game rounds with a win and tie counter
 
-* Game customizable options, time limits, board size, game rounds, name & profiles
+* Game customizable options, time limits, game rounds, name & profiles
 
 * Customizable user tokens (X, O, name, picture, avatar)
 
