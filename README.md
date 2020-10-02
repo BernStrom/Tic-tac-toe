@@ -14,7 +14,7 @@
 
 ## :wave: Welcome & Introductions!
 
-Welcome to my page and thanks for checking out my project.
+Welcome to my page! Do check out my project currently hosted right [here](https://bernstrom.github.io/Tic-tac-toe/ "A classic Tic-tac-toe game, by Bern N").
 
 Tic-tac-toe is a web app game project that is built on HTML5, CSS3, ES6+ vanilla JS. Most features of this game app utilizes the DOM manipulation to respond and renders user interaction.
 
